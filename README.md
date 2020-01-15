@@ -2,10 +2,16 @@
 Simple java offline implementation of pluscodes
 
 ## What does this code do
-It converts a latitude and longitude into a PlusCode, in three formats: Full, Within and Shortened.
+It converts a latitude and longitude into a PlusCode, in three formats: Full, Within and Shortened. The conversion is made offline, without any remote API call.
 
 ## What this code doesn't do
 It does not shows a semantic form of address, with city name, country name, or other names, like streets, avenues, or even house numbers.
+
+## References
+
+- https://en.wikipedia.org/wiki/Open_Location_Code
+- https://plus.codes/developers
+- https://github.com/google/open-location-code
 
 ## Building
 
