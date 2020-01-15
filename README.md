@@ -35,3 +35,12 @@ If you are using Eclipse IDE and have this problem: **Plugin execution not cover
 $ java -jar target/tests.pluscodes-0.0.1-jar-with-dependencies.jar -23.982528 -46.916556
 ```
 ![Live CLI](./demo.svg)
+
+## Results
+
+Based on the above example, that uses this location: -23.982528 -46.916556. You can see in the following images, that both latitude/longitude and pluscode points to the same location.
+
+![By lat lng](./test-by-lat-lng.png)
+
+![By pluscode](./test-by-pluscode.png)
+
