@@ -12,6 +12,8 @@ It does not shows a semantic form of address, with city name, country name, or o
 - https://en.wikipedia.org/wiki/Open_Location_Code
 - https://plus.codes/developers
 - https://github.com/google/open-location-code
+- https://github.com/google/open-location-code/blob/master/docs/olc_definition.adoc
+- https://github.com/google/open-location-code/blob/master/docs/specification.md
 
 ## Building
 
