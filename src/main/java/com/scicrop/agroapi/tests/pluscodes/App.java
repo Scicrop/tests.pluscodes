@@ -4,7 +4,8 @@ import com.google.openlocationcode.OpenLocationCode;
 
 /**
  * OLC PluscCodes simple test class
- *
+ * For more information read README.md file
+ * This code is licensed under Apache v2.0 
  */
 public class App {
 	
