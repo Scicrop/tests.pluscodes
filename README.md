@@ -25,6 +25,8 @@ $ git clone https://github.com/Scicrop/tests.pluscodes
 $ cd tests.pluscodes
 $ mvn package
 ```
+If you are using Eclipse IDE and have this problem: **Plugin execution not covered by lifecycle configuration: com.diffplug.spotless:spotless-maven-plugin:1.23.0:check (execution: spotless, phase: compile)** in the pom.xml from open-location-code package you can just comment the **\<execution>** block inside pom.xml.
+
 ## Running
 
 ```sh
