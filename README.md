@@ -41,6 +41,7 @@ $ java -jar target/tests.pluscodes-0.0.1-jar-with-dependencies.jar -23.982528 -4
 Based on the above example, that uses this location: -23.982528 -46.916556. You can see in the following images, that both latitude/longitude and pluscode points to the same location.
 
 ![By lat lng](./test-by-lat-lng.png)
+https://www.google.com.br/maps/place/588M238M%2BX9/@-23.98256,-46.9176568,336m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d-23.9825625!4d-46.9165625
 
 ![By pluscode](./test-by-pluscode.png)
-
+https://www.google.com.br/maps/place/23%C2%B058'57.1%22S+46%C2%B054'59.6%22W/@-23.982528,-46.9187447,671m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d-23.982528!4d-46.916556
