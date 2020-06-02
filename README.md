@@ -21,7 +21,7 @@ Before start, check the basic requirements: Java 8 or higher and Maven
 
 ```sh
 $ git clone https://github.com/google/open-location-code
-$ cd cd open-location-code/java/
+$ cd open-location-code/java/
 $ cd ../../
 $ git clone https://github.com/Scicrop/tests.pluscodes
 $ cd tests.pluscodes
